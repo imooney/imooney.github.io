@@ -1,0 +1,28 @@
+
+
+<div class="contact-column">
+  <ul>
+    <a href="https://freidablostein.com/">
+      <i class="fa-solid fa-bacteria"></i> My brilliant spouse's work
+    </a>
+    <a href="https://www.goodreads.com/user/show/174439403-isaac">
+      <i class="fa-brands fa-goodreads-g"></i> Goodreads
+    </a>
+    <br>
+    <a href="https://open.spotify.com/user/imooney16">
+      <i class="fa-brands fa-spotify"></i> Spotify
+    </a>
+    <br>
+    <a href="https://letterboxd.com/eyeyam/">
+      <i class="fa-brands fa-letterboxd"></i> Letterboxd
+    </a>
+    <br>
+    <a href="https://www.duolingo.com/profile/electricitywords">
+      <i class="fa-brands fa-duolingo"></i> Duolingo
+    </a>
+    <br>
+    <a href="https://www.strava.com/athletes/165639040">    
+      <i class="fa-brands fa-strava"></i> Strava
+    </a>
+  </ul>
+</div>
