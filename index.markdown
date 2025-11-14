@@ -19,8 +19,11 @@ contact_include: contact-home.html
   <img src="/assets/images/your-headshot.jpg" alt="Isaac Mooney" style="width: 100%; border-radius: 50%;">
 -->
 
-Website under construction -- come back soon! :)
+This website is under construction. However, in the meantime, please peruse the hyperlinks provided on the left side of each page for my academic pages and contact information, my research output, my personal profiles, and some images from presentations of my work.
 
+For more description, come back soon! :)
+
+<!--
 <h1> About me </h1>
 
 ### Current
@@ -30,7 +33,7 @@ Website under construction -- come back soon! :)
 ### Undergraduate
 
 ### Early life
-
+-->
 <!--
 TBD: separate CV page or no?
 TBD: Should it be blog style with particular days, or just by category?
