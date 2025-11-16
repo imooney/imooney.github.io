@@ -1,0 +1,14 @@
+
+.centered-image {
+  text-align: center;
+  margin: 20px 0; /* space above and below */
+}
+
+.centered-image img {
+  border: 2px solid #888;  /* lighter gray border */
+  border-radius: 6px;       /* rounded corners */
+  padding: 3px;             /* space between image and border */
+  display: inline-block;    
+  max-width: 100%;          /* scales nicely on smaller screens */
+  height: auto;
+}

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<!--<h1>{{ page.title }}</h1>-->
+<p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+{% if page.image %}
+<div class="centered-image">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+</div>
+{% endif %}
+
+<div class="post-text">
+  {{ content }}
+</div>

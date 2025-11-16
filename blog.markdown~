@@ -1,0 +1,23 @@
+---
+layout: default
+title: News
+permalink: /blog/
+contact_include: contact-news.html
+---
+
+Will be updating this blog starting from 11/15/2025 onward (including a few exciting items from just before that I wanted to share), so check back!
+
+{% for post in site.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+  <p class="post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+  <div class="post-text">  
+    {{ post.content | markdownify }}
+  </div>	
+  
+  {% if post.image %}
+  <div class="centered-image">
+    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+  </div>
+  {% endif %}
+{% endfor %}

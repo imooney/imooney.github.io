@@ -1,0 +1,14 @@
+
+.blog-image-container {
+  text-align: center;  /* Centers the image */
+  margin: 20px 0;      /* Space above and below */
+}
+
+.blog-image-container img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #ddd;   /* Light gray border */
+  border-radius: 6px;       /* Optional: rounded corners */
+  padding: 4px;              /* Space between image and border */
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.1); /* Optional: subtle shadow */
+}
