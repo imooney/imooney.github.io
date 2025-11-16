@@ -4,3 +4,11 @@ _site
 .jekyll-metadata
 vendor
 Gemfile.lock
+
+# emacs junk
+*~
+*#
+
+# apple DS_Store stuff
+.DS_Store*
+._*
