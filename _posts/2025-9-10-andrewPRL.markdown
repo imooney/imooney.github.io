@@ -5,4 +5,4 @@ date: 2025-9-10
 image: /assets/images/news/25-9-10.png
 ---
 
-Andrew's paper "Measurement of Two-Point Energy Correlators within Jets in $$p$$+$$p$$ Collisions at $$\sqrt{s} = 200$$ GeV" was published in Physical Review Letters today!
+Andrew's paper "Measurement of Two-Point Energy Correlators within Jets in $$p$$+$$p$$ Collisions at $$\sqrt{s} = 200$$ GeV" was published in Physical Review Letters today! Update: also a write-up for the Wright Lab [newsletter](https://wlab.yale.edu/posts/2025-11-26-tamis-publishes-results-on-the-evolution-of-jets-through-time).

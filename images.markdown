@@ -27,6 +27,11 @@ You can find the source code for Jekyll at GitHub:
 
 <div class="photo-gallery">
   <figure>
+    <img src="{{ '/assets/images/LFHCalTB25.png' | relative_url }}" alt="YPRI">
+    <figcaption>Reconfiguring modules of the ePIC LFHCal at a test-beam at CERN's Proton Synchrotron </figcaption>
+  </figure>
+
+<figure>
     <img src="{{ '/assets/images/outreach/YPRI_2025.jpeg' | relative_url }}" alt="YPRI">
     <figcaption>Vikram and Omare on my left, after capping off their seven-week internship in Wright Lab with a presentation each</figcaption>
   </figure>
