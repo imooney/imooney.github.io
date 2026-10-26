@@ -19,6 +19,22 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 -->
 
+### LFHCal
+
+<link rel="stylesheet" href="{{ '/assets/css/gallery.css' | relative_url }}">
+
+<!--<h2 class="leap-title">Title of the photo gallery, but I'll use a section header instead </h2>-->
+
+<div class="photo-gallery">
+
+
+  <figure>
+    <img src="{{ '/assets/images/LFHCalTB25.png' | relative_url }}" alt="YPRI">
+    <figcaption>Reconfiguring modules of the ePIC LFHCal at a test-beam at CERN's Proton Synchrotron </figcaption>
+  </figure>
+
+</div>
+
 ### Outreach
 
 <link rel="stylesheet" href="{{ '/assets/css/gallery.css' | relative_url }}">
@@ -26,10 +42,6 @@ You can find the source code for Jekyll at GitHub:
 <!--<h2 class="leap-title">Title of the photo gallery, but I'll use a section header instead </h2>-->
 
 <div class="photo-gallery">
-  <figure>
-    <img src="{{ '/assets/images/LFHCalTB25.png' | relative_url }}" alt="YPRI">
-    <figcaption>Reconfiguring modules of the ePIC LFHCal at a test-beam at CERN's Proton Synchrotron </figcaption>
-  </figure>
 
 <figure>
     <img src="{{ '/assets/images/outreach/YPRI_2025.jpeg' | relative_url }}" alt="YPRI">

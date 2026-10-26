@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Publication: Herwig tune"
+date: 2025-12-1
+image: /assets/images/news/25-12-1.png
+---
+
+Luke's paper "New Herwig7 underlying event tune: From RHIC to LHC energies" was published in Physical Review D today!
