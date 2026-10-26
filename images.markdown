@@ -43,6 +43,17 @@ You can find the source code for Jekyll at GitHub:
 
 <div class="photo-gallery">
 
+  <figure>
+    <img src="{{ '/assets/images/outreach/PintOfScience.jpg' | relative_url }}" alt="PintOfScience">
+    <figcaption> Explaining to the general public, as part of  <a href="https://pintofscience.us/event/ghost-particles-and-little-bangs/">Pint of Science</a>, what our research teaches us about the early universe! </figcaption>
+  </figure> 
+
+
+  <figure>
+    <img src="{{ '/assets/images/outreach/Pathways_2026_tour.PNG' | relative_url }}" alt="SiPMtesting">
+    <figcaption> Lab tour: showing students the test bench for our SiPM QC </figcaption>
+  </figure> 
+
 <figure>
     <img src="{{ '/assets/images/outreach/YPRI_2025.jpeg' | relative_url }}" alt="YPRI">
     <figcaption>Vikram and Omare on my left, after capping off their seven-week internship in Wright Lab with a presentation each</figcaption>
@@ -68,7 +79,7 @@ You can find the source code for Jekyll at GitHub:
   <figure>
     <img src="{{ '/assets/images/outreach/wl-summer-program-tour-of-wl-june-28-2024_53843755470_o.jpg' | relative_url }}" alt="ChocolateBar">
     <figcaption> Lab tour: this chocolate bar is made of plastic scintillator and ESR foil -- contents may cause particle detection!  </figcaption>
-  </figure>		  
+  </figure> 
 
   <figure>
     <img src="{{ '/assets/images/outreach/PWS2023.png' | relative_url }}" alt="Pathways23">
